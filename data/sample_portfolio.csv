@@ -1,0 +1,5 @@
+ticker,kind,side,quantity,multiplier,strike,expiry,premium,vol,market_price
+AAPL,call,long,2,100,250,2026-12-18,22.50,0.28,
+AAPL,put,short,1,100,230,2026-12-18,9.10,0.30,
+MSFT,call,short,1,100,450,2027-01-15,35.00,0.25,
+MSFT,stock,long,100,1,,,410.00,,
